@@ -241,6 +241,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@revertdotdev/revert-react@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@revertdotdev/revert-react/-/revert-react-0.0.8.tgz#18c91f9ab1c5660302ad04689483fb207c17d7b7"
+  integrity sha512-jUFalNIemha+8DJB7/7nEfh7m5Eb+OwXxR97I4QhZda6rJe66hUPteusw1k4d5bmrlJF69VdD1bAj/QBSjjO3Q==
+
 "@rushstack/eslint-patch@^1.0.8":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.0.tgz#7f698254aadf921e48dda8c0a6b304026b8a9323"
